@@ -6,7 +6,7 @@ For Project Milestone 01, schedule a site visit with your service learning custo
 
 Push to this repository by Friday, January 17th with:
 
-1. The date you and your customer agree to the visit. The date you visit does not have to be before Friday, just an agreed upon date by Friday. 
-2. A list of 5 questions you plan to ask your customer during this visit. 
-3. The name(s) of the person(s) you will be meeting.
-4. The location of the visit. 
+1. We have agreed to meet with our customer on Friday, January 17th during normal class time.
+**2. We do not currently have the questions. To be updated.**
+3. We will be meeting with Jennifer Lainhart.
+4. The location of Hope's Wings is in Richmond, Kentucky. There is not a physical address on Google - we assume due to safety reasons - but Jennifer has given us directions and a phone number to contact in case we get lost.
